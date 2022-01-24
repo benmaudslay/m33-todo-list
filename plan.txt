@@ -1,0 +1,16 @@
+TODO LIST APPLICATION:
+
+Requirements:
+- Add items
+- Delete items
+- Complete items
+- Stretch goal: Edit items
+- Stretch goal: Archive items
+
+Components:
+- Item (display the item)
+- User input
+
+The rest:
+State to track the items
+Controlled component for input
