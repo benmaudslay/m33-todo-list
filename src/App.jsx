@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import { CustomForm } from "./components/CustomForm"
 import { ItemsContainer } from "./components/ItemsContainer"
+import "./App.css"
 
 const App = () => {
   const [list, setList] = useState([])
